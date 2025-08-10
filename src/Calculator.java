@@ -1,5 +1,3 @@
-import java.lang.foreign.Linker.Option;
-import java.util.Optional;
 import java.util.function.BinaryOperator;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
